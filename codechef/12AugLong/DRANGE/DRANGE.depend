@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1343823645 source:d:\mycode\codechef\12auglong\drange\drange.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

@@ -1,0 +1,16 @@
+
+申请了国家发明专利5项，制订国家技术标准2项(行业标准3项)，发表SCI文章3篇；2个方法被提交欧盟转基因检测网络实验室（ENGL）。
+（1）申请专利：
+[1] 张大兵，武爱波，史西志，李荣秀．氯霉素分子印迹聚合物微球的制备方法；申请时间：2006年2月16日；申请号：200610023903.7．
+[2] 张大兵，武爱波，史西志，李荣秀．氯霉素分子印迹固相萃取小柱制备方法；申请时间：2006年2月16日；申请号：200610023904.1．
+[3] 张大兵，许诵辞，武爱波.《编码果蝇乙酰胆碱酯酶的核苷酸基因序列》2005；公开号：1727487.
+[4] 张大兵，杨立桃，潘爱虎，梁婉琪，尹长松，许诵辞，章可为。《玉米品系MON863的外源插入载体的旁邻基因序列》2005；公开号：1740322.
+[5] 张大兵，杨立桃，潘爱虎，梁婉琪，许诵辞，尹长松，章可为。《遗传改良玉米品系MON863的品系特异性PCR检测方法》2005；公开号：1724689.
+（2）国家标准：
+[1] 张大兵、黄昆仑、陆伟、潘爱虎、付仲文、朱水芳、梁婉琪、贾军伟、潘良文、梅曼彤，中华人民共和国国家标准《GB/T 19495.8-2004 转基因产品检测 蛋白质检测方法》，（2004）.
+[2] 潘良文、郑文杰、沈禹飞、刘烜、张舒亚、朱水芳、覃文、曹际娟、张大兵、祝长青、蒋原、潘爱虎、张明，中华人民共和国国家标准《GB/T 19495.4-2004 转基因产品检测 核酸定性PCR检测方法》，（2004）.
+（3）发表论文：
+[1] Yang LT, Chen JX, Cheng H, Jia SR, Liu YH, Pan LW, Zhang DB. Validation of a cotton specific gene, Sad1, used as an endogenous reference gene in qualitative and real-time quantitative PCR detection of transgenic cottons. Plant Cell Rep, 2005, 23: 759-763. （张大兵为通讯作者）.
+[2] Yang LT, Xu SC, Pan AH, Yin CS, Zhang KW, Wang ZY, Zhou ZG, Zhang DB. Event-specific qualitative and quantitative PCR detection of genetically modified MON863 maize based on the 5’-transgene integration sequence. J Agric Food Chem. 2005, 53, 9312-9318. （张大兵为通讯作者）
+[3] Pan AH, Yang LT, Xu SC, Yin CS, Zhang KW, Wang ZY, Zhang DB. MON863 maize Event-specific qualitative and quantitative PCR detection based upon the 3’-transgene integration sequence. J. Cereal Sci., 2006 in press（张大兵为通讯作者）.
+通过本项目的实施：建立了食品中沙门氏菌、金黄色葡萄球菌、单增李斯特菌、O157：H7的特异性复合PCR和荧光PCR检测技术，检测灵敏度为10 cfu/mL；建立了主要转基因抗虫玉米成分（CryIAb）的ELISA检测方法，可检测Bt11、Bt176和Mon810等三种玉米中的CryIAb，检测灵敏度为0.1%；分别利用悬浮聚合法和本体聚合法研制出氯霉素微球、利血平分子印迹聚合物，可分别专一吸附氯霉素和利血平，实际样品检测中的回收率分别为82.6%和79.4%，对结构类似物和其它物质无明显特异性吸附；同时制备了氯霉素的高度特异性单克隆抗体，优化并建立了竞争性ELISA检测方法，检测灵敏度达0.05 ppb；在国内外率先利用甲醇酵母系统表达果蝇乙酰胆碱酯酶（AChE），该重组酶具有乙酰胆碱酯酶的活性，其米氏常数与天然酶相近。

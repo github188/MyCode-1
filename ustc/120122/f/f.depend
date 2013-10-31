@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1328068978 source:d:\mycode\ustc\120122\f\f.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1346946740 source:d:\mycode\codechef\12seplong\light\light.cpp
+	<stdio.h>
+	<algorithm>
+	<math.h>
+

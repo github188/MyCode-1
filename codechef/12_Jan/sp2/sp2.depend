@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1326188158 source:d:\mycode\codechef\12_jan\sp2\sp2.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+

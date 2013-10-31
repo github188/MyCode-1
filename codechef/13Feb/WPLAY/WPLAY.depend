@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1360229349 source:d:\mycode\codechef\13feb\wplay\wplay.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+

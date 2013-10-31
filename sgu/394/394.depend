@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1326706753 source:d:\mycode\sgu\394\394.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

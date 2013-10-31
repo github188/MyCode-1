@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1341131419 source:d:\mycode\essential_c++\3_exp\3_exp.cpp
+	<functional>
+	<iostream>
+

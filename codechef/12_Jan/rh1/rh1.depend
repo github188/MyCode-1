@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1325839972 source:d:\mycode\codechef\12_jan\rh1\rh1.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+

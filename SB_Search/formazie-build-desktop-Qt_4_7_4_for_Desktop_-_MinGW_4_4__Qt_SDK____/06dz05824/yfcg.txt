@@ -1,0 +1,35 @@
+
+发表论文25篇，申请国家实用新型专利3项、国家发明专利2项，培养硕士生15名、博士生7名。
+（1）申请专利：
+[1] 实用新型专利：大肠杆菌电化学快速检测装置，申请号：200720072975.0
+[2] 实用新型专利：补偿型食品农药残留速测仪，申请号：200720073093.6
+[3] 发明专利：一种nafion修饰铋膜电极及其应用，申请号：200710044628.1
+[4] 发明专利：一种微波-电化学快速检测重金属的装置及其用途，申请号：200810039832.9
+[5] 实用新型专利：新型水质分析仪吸收池，申请号：20082005599.X
+（2）发表论文：
+[1] Platinum Nanoparticles Modified Electrode for Rapid Electrochemical Detection of Escherichia Coli. Chinese Journal of Chemistry, 2008, 26, 302-306. 
+[2] Rapid amperometric detection of coliforms based on MWNTs/Nafion composite film modified glass carbon electrode, Talanta, 2008, 75, 167-171.
+[3] Self-assembled monolayers-based immunosensor for detection of Escherichia coli using electrochemical impedance spectroscopy, Electrochimica Acta, 2008,53, 4663-4668.
+[4] “Microwave-irradiated synthesized platinum nanoparticles/carbon nanotubes for oxidative determination of trace arsenic(III)” Electrochemistry Communications 2008, 10, 551?554.
+[5]“A Nafion-coated bismuth film electrode for the determination of heavy metals in vegetable using differential pulse anodic stripping voltammetry: An alternative to mercury-based electrodes” Food Chemistry 2008, 109, 834?839.
+[6] “Nafion-Coated Bismuth Film Electrodes for the Determination of Trace Lead and Cadmium in Herbal Medicines by Anodic Stripping Voltammetry” Chinese Journal of Chemistry, 2008, 26, 1-10. 
+[7] Direct Electron Transfer and Electrocatalysis of Hemoglobin in Layer-by-Layer Films Assembled with Al-MSU-S Particles Talanta, 2008,74,1692-1698.
+[8] Sonophotoelectrocatalytic degradation of azo dye on TiO2 nanotube electrode” Ultrasonics Sonochemistry, 2008, 15, 370.
+[9] Trace Detection of Nitroaromatic Compounds with Layer-by-Layer Assembled {SBA/PSS}n/PDDA Modified Electrode Sensors and Actuators B Chemical, 2008, in press.
+[10] Preparation and photoelectrocatalytic activity of ZnO nanorods embedded in highly ordered TiO2 nanotube arrays electrode for azo dye degradation”, Journal of Hazardous Materials in press.
+[11] Fabrication of Tyrosinase Biosensor Based on Multiwalled Carbon Nanotubes-Chitosan Composite and Its Application to Rapid Determination of Coliforms, Electroanalysis, Accepted. 
+[12] Preparation and photoelectrochemical properties of a hybrid electrode composed of polypyrrole encapsulated in highly ordered titanium dioxide nanotube array” Thin Solid Films ,accept.
+[13] Au-TiO2/Chit modified sensor for electrochemical detection of trace organophosphates insecticides, Talanta accepted.
+[14] “Sensitive voltammetric detection of trace lead(II) and cadmium(II) in food samples based on Nafion-coated antimony film electrodes” Food Chemistry revised.
+[15] Rapid detection of Escherichia coli by flow injection analysis coupled with amperometric method using an IrO2?Pd chemically modified electrode, Electrochemistry Communications, 2007, 9, 2157-2162.
+[16] Amperometric method for rapid detection of Escherichia coli by flow injection analysis using a bismuth nano-film modified glassy carbon electrode, Electrochemistry Communications, 2007, 9, 833-838.
+[17] Electrochemistry and Electrocatalytic properties of Hemoglobin in Layer-by-Layer films of SiO2 with Vapor-Surface Sol-Gel Deposition Analytical Chemistry, 2007, 79, 3581-3588.
+[18] {MSU/PDDA}n LBL Assembled Modified Sensor for Electrochemical Detection of Ultratrace Explosive Nitroaromatic Compounds Electrochemistry Communication, 2007, 9, 1719-1724.
+[19]Photoelectrocatalytic Activity of Highly Ordered TiO2 Nanotube Arrays Electrode for Azo Dye Degradation” Environmental Science ＆ Technology 2007, 41, 6259-6263. 
+[20] Study on determination of chemical oxygen demand in water with ion chromatography ” Chinese Journal of Chemistry, 2007 25 (2), 228-232. 
+[21]“Preparation of photocatalytic nano-ZnO/TiO2 film and application for determination of chemical oxygen demand”, Talanta, 2007, 73, 523. 
+[22] Photoelectrochemical oxidation behavior of methanol on highly ordered TiO2 nanotube array electrodes”, Journal of electroanalytical chemistry, 2007, 610, 179. 
+[23] Development of quantum dots modified acetylcholinesterase biosensor for the detection of tricholorhon, Electroanalysis, 2006,18,2163-2167
+[24]  Au-Fe3O4 纳米粒子酶传感器的制备及其应用于有机磷农药检测的研究，化学学报，2007，65，2303-2308
+[25] Au-TiO2 纳米例子修饰电极用于有机磷农药对硫磷的直接电化学检测的研究，化学传感器，2007，2，20-26
+研究成果还包括：提供饮用水中细菌快速检测的新方法；提供饮用水与蔬菜类食品中有毒金属快速检测的新方法；提供适用于蔬菜中有机磷和氨基甲酸酯类农药残留的快速检测方法；研制开发了针对细菌、有毒金属快速检测的专用电分析仪器各2台；研制开发了针对农药残留快速检测的光分析仪2台；

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1354368437 source:d:\mycode\sysu\121201\1000\1000.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<vector>
+	<iostream>
+

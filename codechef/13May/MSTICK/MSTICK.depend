@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1367747471 source:d:\mycode\codechef\13may\mstick\mstick.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<algorithm>
+

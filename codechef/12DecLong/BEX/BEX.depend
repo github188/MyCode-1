@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1354621840 source:d:\mycode\codechef\12declong\bex\bex.cpp
+	<stdio.h>
+	<algorithm>
+	<queue>
+	<vector>
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1317145042 source:d:\mycode\hdu\3068\hdu3068.cpp
+	<string.h>
+	<stdio.h>
+

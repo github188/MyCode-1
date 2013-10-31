@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1341152179 source:d:\mycode\essential_c++\3_4\3_4.cpp
+	<iostream>
+	<iterator>
+	<vector>
+	<algorithm>
+	<fstream>
+	<string.h>
+	<functional>
+

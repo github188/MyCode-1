@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1341803018 source:d:\mycode\codechef\12julylong\favnum\favnum.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<algorithm>
+

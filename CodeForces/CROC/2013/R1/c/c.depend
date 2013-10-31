@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366047075 source:d:\mycode\codeforces\croc\2013\r1\c\c.cpp
+	<vector>
+	<iostream>
+	<string>
+

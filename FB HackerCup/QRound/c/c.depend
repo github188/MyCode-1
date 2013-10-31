@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1359172880 source:d:\mycode\fb hackercup\qround\c\c.cpp
+	<stdio.h>
+	<queue>
+	<vector>
+	<algorithm>
+	<string.h>
+	<functional>
+

@@ -1,0 +1,1 @@
+修改了：StopRotating和StopMoving都被解析为Stop的bug。

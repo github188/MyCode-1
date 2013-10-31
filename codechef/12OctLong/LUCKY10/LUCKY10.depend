@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1349624049 source:d:\mycode\codechef\12octlong\lucky10\lucky10.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1349621575 source:d:\mycode\codechef\12octlong\maxcomp\maxcomp.cpp
+	<stdio.h>
+	<algorithm>
+

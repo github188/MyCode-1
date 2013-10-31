@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1327892839 source:d:\mycode\sgu\sgu340\sgu340.cpp
+	<iostream>
+	<string.h>
+	<stack>
+

@@ -1,0 +1,23 @@
+ 
+在长清泵站建设世博园区供水系统预警和监控中心及信息发布演示平台预警系统；世博园区爆管预防和应急中心基本模型与预案已经建立，在长清泵站的应急中心应用；多水源供水布局和联合调度平台南杨管调度方案建立，在长清泵站的应调度平台应用；供水水质达到国家饮用水水质标准106项指标，饮水点打开龙直饮 通过认证实验室检测的106项指标合格；形成《中国2010上海世博排水安全保障应急预案》、《中国2010上海世博排水防汛信息化应急保障车研究报告》2份研究报告以及“上海排水应急保障抢修指挥车”1个应用示范。
+申请专利2项；国内外刊物发表论文4-9篇，已经发表论文（含录用）14篇，其中EI4篇。
+（1）专利申请情况：
+[1]外观设计专利：直饮台（单盆）
+[2]外观设计专利：直饮台（双盆）
+（2）发表论文
+[1]裴剑, 李伟英, 许京晶, 陈杰, 张东, 乐林生. 超滤-颗粒活性炭-紫外消毒组合工艺制备直接饮用水试验研究. 给水排水（已录用）
+[2]陆俊宇, 李伟英, 陈清, 陈杰, 华伟, 周舒月. 不同颗粒活性炭去除微污染水中有机物的性能研究. 净水技术（已录用）
+[3]李伟英, 张明, 陈玲, 董秉直. 紫外线对微囊藻毒素-RR的降解作用及动力学研究. 同济大学学报(自然科学版). 2009, 37(7): 925-928 
+[4]汪清, 李伟英, 杨佩颖，裴剑. 水环境中抗生素物质研究进展. 科学. 2009, 61(3): 44-46
+[5]裴剑, 张璐, 李伟英. 饮用水消毒剂二氧化氯研究进展. 饮用水消毒剂二氧化氯研究进展. 四川环境. 2009, 28(6): 75-77
+[6]谢良杰, 李伟英. 粉末活性炭-超滤膜联用工艺去除水体藻毒素的特性研究. 水处理技术 (已录用）
+[7]陆俊宇, 李伟英, 赵勇, 陈清, 华伟. 不同预处理工艺对超滤膜运行影响的中试试验研究. 工业水处理 (已录用)
+[8]赵勇, 李伟英, 张明, 华伟, 董秉直. 超滤膜对水中微囊藻毒素去除机理及影响因素研究. 工业水处理 (已录用)
+[9]赵勇, 李伟英, 陈杰, 董秉直. 污染物截留对膜污染和压差影响试验研究. 哈尔滨工业大学学报(自然科学版)（投稿中）
+[10]Shu ShiHu. Water quality model calibration of water distribution network using parallel fmGA algorithm,IEEE Computer Society 待刊（EI）
+[11]Shu ShiHu. Development and applications of decision support system for water distribution system,IEEE Computer Society 待刊（EI）
+[12]Shu ShiHu. Investigation and Control Strategies of Lead Concentration in Drinking Water Distribution Systems,IEEE Computer Society 待刊（EI）
+[13]Shu ShiHu. Field Test of Chlorine Decay in Drinking Water Distribution Systems,IEEE Computer Society 待刊（EI）
+[14]Shu ShiHu. Determination and Applications of Water Age in Distribution System,IEEE Computer Society 待刊（EI） 
+（3）标准制定：
+制定《世博园区直接饮用水水质（推荐）标准》

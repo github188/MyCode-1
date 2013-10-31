@@ -1,0 +1,22 @@
+
+“黄浦江水域水下监测监控系统关键技术研究”是一个面向工程实际的应用研究课题，直接为世博园区黄浦江水域水下的反恐防暴安全保卫装备服务。课题组针对世博园区黄浦江实际水域的特殊情况（河床狭窄、水质浑浊、淤泥松软等），围绕①例行监测监控技术和②异常情况的监测监控及应急处置技术，交叉开展并完成了：
+黄浦江水域水下监测监控工程系统的关键技术研究,从工程实用和用户需求出发，开展并完成了：抗浪涌增稳技术的工程研究;抗风增稳技术的研究；潜水器的工程开发；水域监测监控系统工程技术的总体验证。
+黄浦江水域水下监测监控工程系统的总体论证和上海世博局与上海水上公安局委托项目“多功能扫测艇”及其专用扫测装备的承接。“多功能扫测艇”及其专用扫测装备的工程开发和水域水下监测监控工程系统的检测验证。
+通过本课题的研究，申请国家发明专利4项、实用专利1项，在国内外核心期刊上发表学术论文13篇，培养博士研究生1人、硕士研究生2人。
+（1）申请专利，受理的发明专利4项，实用新型专利1项：
+[1]水下机器人网兜式机械手，受理号：200910048311.4；
+[2]水下机器人抱持式机械手，受理号：200910048323.7；
+[3]小型无人飞行器舵机控制装置，受理号：200810032398.1；
+[4]变姿飞行机器人的测试台，受理号：200810032378.4；
+[5]潜水器换向机构，受理号：200920071409.7；
+另有3项发明专利、2项实用新型专利将在2010年3月水域水下监测监控系统在世博园区运行后申请。
+（2）发表论文1３篇，其中10篇被EI收录，它们分别是：
+[1]“Sliding Mode Control of ROV Based on RBF Neural Networks Adaptive Learning”, Proceedings of the 3th International Conference on Intelligent System ＆ Knowledge Engineering, Xiamen, 17-18, November, 2008, p590-595. EI: 20090911922391;
+[2]“The Anti-wave Control of Small Open-frame Underwater Robot”, Proceedings of the 3th International Conference on Intelligent System ＆ Knowledge Engineering, Xiamen, 17-18, November, 2008, p739-744. EI: 20090911922418;
+[3]“Upper Bound Adaptive Learning of Neural Network For The Sliding Mode Control of Underwater Robot”, Proceedings of the 2008 International Conference on Advanced Computer Theory and Engineering 2008, Phuket, Thailand, 20-22, December, 2008, p276-280. EI:20091411996429; 
+[4]“Modeling and Identification of a hovering Subminiature Rotorcraft”, Proceedings of 2008 International Symposium on Interlligent Information Technology Application,2008:1104~1108 ,EI:20091311977579; 
+[5]“The Modeling of Under-Actuated Small Unmanned Helicopter By Mechanism Analysis and Identification”, Proceedings of IASTED International Conference on Modeling ,Simulation and IdentificationTechnologyApplication,2008,December,21.EI: 20091311977581;
+[6]“The Design and Development of a flight control System for a Small Size Unmanned Helicopter[C]. Proceedings 2009 International Conference on Information and Computing Science, 2009;1:103~106（EI全文收录）;
+[7]“Mathematical Modeling and Identification of a Subminiature Rotorcraft with Flybar Dynamics. Proceedings 2009 Pacific-Asia Conference on Circuits,Communications and System, 2009:364~367（EI全文收录）;
+[8]“High Precision Contactless Object-diameter measurement using Laser light source”, 2009 IEEE Internatianl Conference on Mechatronics and Automation, （EI全文收录）;
+[9]“滞空飞行状态下超小型旋翼无人机系统模型的辨识”，系统仿真学报,2008.1(20),P7-P11,EI: 20081011136915。

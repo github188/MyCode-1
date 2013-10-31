@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1322792922 source:d:\mycode\codechef\11dec\streggs\streggs.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<string.h>
+

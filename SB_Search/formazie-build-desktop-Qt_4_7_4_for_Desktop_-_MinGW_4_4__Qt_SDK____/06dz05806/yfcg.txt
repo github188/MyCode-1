@@ -1,0 +1,22 @@
+
+编制了自密实混凝土施工指南，形成行业标准。编制了地下大空间钢-混凝土组合结构设计指南，形成行业施工标准。申请专利及两项，发表论文15篇，培养博士3名，硕士5名。
+（1）申请专利：
+[1]强度等级C80以上自密实高性能混凝土配方专利
+[2]软钢剪切滞回阻尼器专利
+（2）发表论文：
+[1]Y. Yuan. Challenges in underground construction [J]. Proceedings of the Institution of Civil Engineers- Municipal Engineer，2008 
+[2]Y. Yuan，H. L. Zhao and X. F. Bao. Design for a large underground space [J]. Proceedings of the Institution of Civil Engineers- Municipal Engineer，2008
+[3]俞志杰，袁勇. 地下大空间结构经济性能比较. 工业建筑，2006 Vol.36 No.z1 P.805-808.
+[4]包旭范，袁勇，赵慧玲. 大跨度弧形楼梯的动力特性研究. 结构工程师. 
+[5]陶津，赵桂祥，袁勇.自密实混凝土早期力学性能研究，商品混凝土,2005(6):6-10.
+[6] 陶津，赵桂祥，袁勇，姚勇，曹阳. 高强自密实混凝土工作性能及配合比优化研究. 施工技术，2005，S2期. 
+[7] Tao Jin, Yuan Yong. State of Research on Durability of Self-compacting Concrete,1st International Workshop on Service Life Design for Underground Structures, 2006, 9.
+[8] Tao Jin, Yuan Yong. State of the arts on durability research of Self-compacting concrete, 3rd China-Japan joint Seminar for the Graduate Students proceedings, 2006, 10.
+[9] Tao Jin, Liu Xian, Yuan Yong, Luc Taerwe. Research on Mechanical Property of Self-Compacting Concrete at Elevated Temperature. 5th International RILEM Symposium on self-compacting concrete, 2007, 9.
+[10] Tao Jin, Liu Xian, Yuan Yong, Luc Taerwe. Experimental Research on the Transient Strain of Self-Compacting Concrete at High Temperature. 8th International Symposium on Utilization of High-Strength and High-Performance Concrete, 2008.10. 
+[11] Tao Jin, Liu Xian, Yuan Yong, Luc Taerwe. Experimental Research on compressive strength and deformation of self-compacting concrete at high temperature. The Tenth International Symposium on Structural Engineering for Young Experts. 2008,10. 
+[12] Tao Jin, Yuan Yong, Luc Taerwe. Compressive strength and deformation of self-compacting concrete at high temperature. RILEM Publication, 2008,10. 
+[13] X. Liu, G. Ye, G. De Schutter, Y. Yuan, L. Taerwe, “On the mechanism of polypropylene fibres in preventing fire spalling in self-compacting and high-performance cement paste”,submitted to Cement and Concrete Research 2006.
+[14] X.Liu,G.Ye,A.M.Poppe,G.DeSchutter,K.vanBreugel,“Microstructure of Self-Compacting Concrete: Experimental Study and Numerical Simulation,” Second North American Conference and Fourth RILEM International Conference, Chicago,Nov, 200
+[15] G.Ye,X.Liu,G.De Schutter,T.Luce,Y.Yuan,“Microstructure of SCC compared with high performance concrete and traditional concrete”, SCC 2005 Changsha China, 26-28 May 2005, 385-394.
+此外，研究成果还包括：对大空间地下结构的水平结构体系及竖向结构体系进行对比，强调结构体系的经济性；对浦明路过路段单元进行整体计算与分析，建议该过路-1.000米板中间6跨采用高强钢-混凝土组合梁方案，柱采用钢管混凝土柱。被设计和施工方采纳，施工效果良好；对浦明路过路段地下结构进行现场检测，并与设计结构进行比对；进行了高性能自密实混凝土试验；进行了高性能钢-混凝土组合梁力学性能试验。

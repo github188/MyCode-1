@@ -1,0 +1,74 @@
+
+通过本项目的实施共研发形成了“面向世博的危险源监测和减灾救援应急系统”与“多源信息组网监视与预警系统”，完成并提交了课题研制的工作报告、技术报告与研究分报告各1份，申请专利18项，开发形成3个授权软件，在国内外核心期刊上发表学术论文49篇。
+（1）申请专利：
+[1] 《多传感器多目标信息融合方法》（2004.9.15，专利号ZL02136098.7）.
+《 基 于 块 分 割 的 多 聚 焦 图 像 融 合 方 法 》（2004.11.24 , 专利号ZL02137055.9）.
+[2]《低信噪比红外图像序列中点目标的多帧模糊检测方法》（2005.6.22，专利号ZL03129621.1）.
+[3]《基于线性约束截断最小二乘的数据融合方法》（2005.8.24，专利号ZL03129058.2）.
+[4]《基于旋转不变形态学神经网络的红外序列图像目标识别方法》（2005.8.24，专利号ZL03141786.8）.
+[5]《雷达间歇辅助红外多目标协同融合跟踪方法》（2005.9.21，专利号（国防）02145105.2）.
+[6]《 红 外 目 标 检 测 、 跟 踪 与 识 别 系 统 》（ 2006.1.4 ， 专利号49ZL200310109070.2）.
+[7]《基于局部统计特性和彩色空间变换的遥感影像融合方法》（2006.3.8，专利号ZL03150472.8）.
+[8]《复杂背景条件下红外弱小目标检测与跟踪方法》（2006.4.12，专利号ZL02136952.6）.
+[9]《刚体变换下基于轮廓的多源图像配准方法》（2006.4.12，专利号ZL200310108731.X）.
+[10]《综合边缘和纹理信息的金字塔图像融合方法》（2006.4.12，专利号ZL200310108935.3）.
+[11]《基于期望值最大与离散小波框架的图像融合方法》（2006.5.3，专利号ZL200410018301.3）.
+[12]《遥感图像的光谱特征提取与比较方法》（2006.5.17，专利号 ZL200310108309.4）.
+[13]《对空成像起伏背景条件下红外弱小目标的检测方法》（2006.5.17，专利号ZL200410018302.8）.
+[14]《 有限冗余离散小波变换方法 》（ 2006.10.25, 申请号：200610117569.1）.
+[15]《基于不相关且正交的局部保留映射人脸识别方法》（申请号：软件200610117047.1）.
+[16] 《基于多特征信息融合的视频运动目标自适应跟踪方法》（申请号：200410089270.0， 申请日：2004.12.09，公开号：1619593，公开日期：2005.05.25）.
+[17] 《基于自适应表面模型的视频跟踪方法》（申请号：200510029899.0，申请日：2005.09.22，公开号：1741069，公开日期：2006.03.01）.
+（2）发表论文：
+[1] Haitao Zhao, Shaoyuan Sun, Zhongliang Jing, et al. Local Structure based Supervised Feature Extraction. Pattern Recognition, 2006, 39(8).
+[2] Xuerong Chen, Zhongliang Jing. Infrared face recognition based 50 on Log-Gabor wavelets. International Journal of Pattern Recognition and Artificial Intelligence, 2006, 20(3).
+[3] Haitao Zhao, Shaoyuan Sun, Zhongliang Jing. Local-information-based uncorrelated feature extraction. Optical Engineering, 2006, 45(2).
+[4] Zhenhua Li, Zhongliang Jing, et al. Color transfer based remote sensing image fusion using non-separable wavelet frame transform. Pattern Recognition Letters, 2005, 26(13).
+[5] Liu Gang, Zhongliang Jing, et al. Image fusion based on expectation maximization algorithm. Optical Engineering, 2005, 44(7).
+[6] Zhongliang Jing. Neural network-based state fusion and adaptive tracking for maneuvering targets. Communications in Nonlinear Science and Numerical Simulation, 2005, 10(4).
+[7] Shijun Zhang, Zhongliang Jing, et al. Fast learning high-order neural networks for pattern recognition. IEE Electronics Letters, 2004, 40(19).
+[8] Jianxun Li, Zhongliang Jing. Practical system for multiple maneuvering targets tracking. Optical Engineering, 2003, 42(8).
+[9] Shiqiang Hu, Zhongliang Jing. A new fusion tracking algorithm based on extended Adeline’s model. Dynamics, Acoustics and Simulations, 2003, 116 (2).
+[10] Xiao Yanjun, Li Jianxun, Xue Yang. Outlier Rejecting Multirate Model for State Estimation. Electronic Information Forum (EIF2005). Journal of Shanghai Jiaotong University. (Accepted)
+[11] Xiao Gang, JING Zhongliang. An Optimal Color Image Fusion Approach Based on Fuzzy Integral. Image Science Journal (In press). (SCI, EI Source).
+[12] Xiao Gang, Jing Zhongliang, Li Jianxun, Henry Leung. A United Optimum Images Fusion Based On Analysis Of Color Distortion. Chinese Optics Letters, Vol.2, No.3. P144-147.2004.4. (EI： 04278252257).
+[13] Xiao Gang, Jing Zhongliang. Analysis of Color Distortion and Optimum Fusion for Remote Sensing Images Using the Statistical 51 Property of Wavelet Decomposition. High technology letters (In press). (EI Source).
+[14] Xiao Gang, Jing Zhongliang, Wu Jianmin, Liu Congyi. Synthetically Evaluation System for Multi-source Image Fusion and Experimental Analysis, Journal of Shanghai Jiaotong university （Science），Vol.E-11, No.3, 2006, 263~270. (EI Source).
+[15] Yu Fang, Chang-Jun Jiang and Zhao-Hui Zhang. A mobile navigation service platform based on traffic information grid. Int. J. Services Operations and Informatics, Vol. 1, Nos. 1/2, 2006,23-37.
+[16] C.J.Jiang, Z.H.Zhang, G.S.Zeng, H.Z.Chen, D.Q.Miao, Y.Fang, X.F.Tao, Q.Zhi, F.Yue, Y.Luo, A.Q.Zhou, L.Chen, L.Liu（2005）， Urban Traffic Information Service Application on Grid, J. of Comp. Sci. & Tech., 20[1]:134-140.
+[17] Li-Na Ni, Jin-Quan Zhang, Chun-Gang Yan, Chang-Jun Jiang. A Heuristic Algorithm for Task Scheduling based on Mean Load on Grid. Journal of Computer Science and Technology, 2006, 21(4), 559-564.
+[18] Anping Li, Zhongliang Jing, and Shiqiang Hu, Learning-based Appearance Model for Probabilistic Visual Tracking, Optical Engineering, 2006, 45(7). (SCI & EI Source).
+[19] Anping Li, Zhongliang Jing, and Shiqiang Hu, Particle Filter based Visual Tracking with Multi-cue Adaptive Fusion, Chinese Optics Letters, 2005, 3 (6): 326-329. (EI: 05289208673).
+[20] Anping Li, Zhongliang Jing, and Shiqiang Hu, UKF-based Multi-sensor Passive Tracking with Active Assistance, Systems Engineering and Electronics, 2006, 2(17): 245-250. (EI: 063410082337).
+[21] Chen Xuerong, Jing Zhongliang, Xiao Gang, Fuzzy Fusion for Face Recognition, Lecture Notes in Artificial Intelligence, 2005, 3613: 672-675. (SCI、EI Source).
+[22] Chen Xuerong, Jing Zhongliang, Sun Shaoyuan, Xiao Gang, Fusion of visible and infrared imagery for face recognition, Chinese Optics Letters, 2004, 2(12): 694-697. (EI: 05068829643).
+[23] Anping Li, Zhongliang Jing, and Shiqiang Hu, Robust Observation 52 Model for Visual Tracking in Particle Filter, International Journal of Electronics and Communications. (In Press). (SCI & EI Source).
+[24] Anping Li, Zhongliang Jing, and Shiqiang Hu, Genetic Algorithm Based Visual Target Search with Multi-cue Adaptive Fusion, Dynamics of continuous, discrete and impulsive systems. (In Press). (SCI & EI Source).
+[25] Chen Xuerong, Jing Zhongliang, Xiao Gang, Nonlinear fusion for face recognition using fuzzy integral, Communications in Nonlinear Science and Numerical Simulation (Elsevier). (In press). (EI Source).
+[26] Yanxia Jiang, Hongren Zhou, Zhongliang Jing, Visual Tracking and Recognition Based on Robust Locality Preserving Projection, Optical Engineering. (Accepted, SCI & EI Source).
+[27] Yanxia Jiang, Hongren Zhou, Zhongliang Jing, Efficient Recognition of Human Faces From Video in Particle Filter, Journal of Shanghai Jiaotong University. (In Press, EI Source).
+[28] Xue Yang, Wang Yuanfang, Yang Yudong, Jing Zhongliang, Zhou Hongren. The Contrast and Enlightenment of National Emergency Information System between China and USA. Electronic Information Forum (EIF2005). Journal of Shanghai Jiaotong University (Accepted).
+[29] 李安平, 敬忠良, 胡士强, 基于有源辅助的被动跟踪系统研究, 上海交通大学学报, 2005, 39(12): 2048-2051. (EI: 06109747792).
+[30] 肖刚,敬忠良等. 一种基于模糊积分的图像最优融合方法.上海交通大学学报. Vol.39,No.8,Aug.2006,PP:1312-1316 (EI：05399387312).
+[31] 邱亚丹，敬忠良，陈雪荣，肖刚；基于决策级的多源人脸融合识别，计算机工程与应用，2006 年第42 卷27 期。
+[32] 陈雪荣, 敬忠良, 孙韶媛, 一种处理红外人脸识别中眼镜干扰的方法, 上海交通大学学报. (已录用). (EI 源刊).
+[33] 陈雪荣, 敬忠良, 李建勋, 孙韶媛, 一种基于危险系数的人脸识别性能评价方法, 计算机工程. (已录用). (EI 源刊).
+[34] 李安平, 敬忠良, 胡士强, 基于自适应表面模型的概率视频跟踪算法, 控制与决策(已录用). (EI Source).53
+[35] 杜晓丽, 王俊丽, 蒋昌俊, 异构环境下基于松弛标记法的任务调度,自动化学报, 已录用.
+[36] 杜晓丽, 蒋昌俊, 徐国荣, 丁志军, 一种基于模糊聚类的网格DAG任务图调度算法, 软件学报, 已录用.
+[37] 杜晓丽, 蒋昌俊, 丁志军, 张金泉, 异构环境下基于任务交互图的调度算法, 同济大学学报,已录用.
+[38] 张斌，刘磊，敬忠良，薛阳，肖刚. 基于最小二乘及区域分割的多光谱图像纹理特征提取与比较. 计算机工程与应用. （已录用）
+[39] 龙章华，敬忠良，薛阳. 基于Web GIS 的住宅小区智能化系统集成体系. 微型电脑. （已录用）
+[40] 江艳霞，周宏仁，敬忠良，基于拉普拉斯脸和隐马尔可夫的视频人脸识别，计算机工程. （In Press, EI Source）
+[41] 邱亚丹，敬忠良，陈雪荣，赵海涛；基于瑞利转换的多源人脸决策级融合识别，微型电脑应用，已录用。
+[42] Ya-jing Zhang, Yang Xue, Shuan-hu Wu. A Gene Immune Detection Algorithm with a Strategy of DNA Pri. The Third International Conference on Machine Learning and Cybernetics (ICMLC2004), Vol.4, 2004, pp2421-2426. (EI: 04458446861, ISTP: BBF92)
+[43] Gang Xiao, Jianmin Wu, Zhongliang Jing. An Optimal Color Image Fusion Approach Based on Quantitative Evaluation Indexes. Proceedings of the 6th World Congress on Intelligent Control and Automation.June21-23, 2006. Dalian, China.PP:10302-10305..
+[44] Yanxia Jiang, Hongren Zhou, Zhongliang Jing, Visual Tracking and Recognition Using Adaptive Probabilistic Appearance Manifold in Particle Filter, 1st International conference on nonlinear science and complexity 2006. (In Press, SCI & EI Source)
+[45] Chen Xuerong, Jing Zhongliang, Li Zhenhua, Image fusion for face recognition, in: Proc. of the 8th Int. Conf. Information Fusion, Philadelphia, USA, Jul. 25-29, 2005. (EI Source).
+[46] Yanxia Jiang, Hongren Zhou, Zhongliang Jing, Robust Locality Preserving Projection with Application to Face Recognition, 9th IEEE International Conference on Control, Automation, Robustic and 54 Vision 2006, (Accepted, EI Source)
+[47] Xue Yang, Jing Zhong-liang. On-line Self-learning Neural Network Control for articulated Pneumatic Robot Position System. 2005 ASME International Mechanical Engineering Congress and Exposition. (EI, Accepted)
+[48]薛阳，王元放，杨煜东，敬忠良，周宏仁. 中美国家应急信息系统的对比与启示. 信息化建设. 中国电子政务论坛. October 2004, pp22-24.
+（3）软件著作权：
+[1] 上海城市空间信息应用服务系统软件 V1.0.
+[2] 基于点源理论的建筑物高度信息库集成管理软件 V1.0.
+[3] 空间信息处理与开发平台，版本号：V1.0，（2004SR05549）.

@@ -1,0 +1,132 @@
+program dnacray;
+  var i,j,k,h,m,na,nb,nc,ya,yb,yc:longint;
+      up,down:longint;
+      upmin,downmin:real;
+      a,b,c:array[1..1300]of longint;
+      dp:array[1..1300,1..1300,1..2]of real;
+      ans:array[0..1300]of real;
+      s:array[1..1300,1..1300,1..2]of integer;
+function jl(x1,y1,x2,y2:real):real;
+  begin
+    jl:=sqrt(sqr(x1-x2)+sqr(y1-y2));
+  end;
+
+function jla(x1,y1:integer):real;{计算两点距离}
+  begin
+    jla:=sqrt(sqr(a[x1]-b[y1])+sqr(ya-yb));
+  end;
+function jlc(x1,y1:integer):real;{计算两点距离}
+  begin
+    jlc:=sqrt(sqr(c[x1]-b[y1])+sqr(yc-yb));
+  end;
+
+  begin
+    read(na,nb,nc);
+    read(ya,yb,yc);
+    for i:=1 to na do
+      read(a[i]);
+    for i:=1 to nb do
+      read(b[i]);
+    for i:=1 to nc do
+      read(c[i]);
+
+    for i:=1 to nb do{赋初值}
+      begin
+        upmin:=1e9;
+        downmin:=1e9;
+        for j:=1 to na-1 do
+          begin
+            if jla(j,i)+jla(j+1,i)<upmin then
+              begin
+                upmin:=jla(j,i)+jla(j+1,i);
+                up:=j;
+              end;
+          end;
+        for j:=1 to nc-1 do
+          begin
+            if jlc(j,i)+jlc(j+1,i)<downmin then
+              begin
+                downmin:=jlc(j,i)+jlc(j+1,i);
+                down:=j;
+              end;
+          end;
+        s[i,1,1]:=up;
+        dp[i,1,1]:=upmin;
+        s[i,1,2]:=down;
+        dp[i,1,2]:=downmin;
+      end;
+    s[1,1,1]:=1;
+    dp[1,1,1]:=jla(1,1)+jlc(1,1);
+    s[1,1,2]:=1;
+    dp[1,1,2]:=jla(1,1)+jlc(1,1);
+    s[nb,1,1]:=na;
+    dp[nb,1,1]:=jla(na,nb)+jlc(nc,nb);
+    s[nb,1,2]:=nc;
+    dp[nb,1,2]:=jla(na,nb)+jlc(nc,nb);
+    for i:=2 to nb do{dp过程}
+      begin
+        dp[i,i,1]:=jla(1,1)+jlc(1,i)+b[i]-b[1];
+        dp[i,i,2]:=jla(1,i)+jlc(1,1)+b[i]-b[1];
+        s[i,i,1]:=1;
+        s[i,i,2]:=1;
+        for j:=i+1 to nb-1 do
+          begin
+            h:=j-i+1;
+            dp[j,i,1]:=1e9;
+            for k:=s[j-1,i,1] to s[j,i-1,1] do{四边型优化，计算d}
+              begin
+                if jla(k,h)+jla(k+1,j)+b[j]-b[h]-a[k+1]+a[k]<dp[j,i,1] then
+                  begin
+                    dp[j,i,1]:=jla(k,h)+jla(k+1,j)+b[j]-b[h]-a[k+1]+a[k];
+                    s[j,i,1]:=k;
+                  end;
+              end;
+            dp[j,i,2]:=1e9;
+            for k:=s[j-1,i,2] to s[j,i-1,2] do{四边型优化，计算d’}
+              begin
+                if jlc(k,h)+jlc(k+1,j)+b[j]-b[h]-c[k+1]+c[k]<dp[j,i,2] then
+                  begin
+                    dp[j,i,2]:=jlc(k,h)+jlc(k+1,j)+b[j]-b[h]-c[k+1]+c[k];
+                    s[j,i,2]:=k;
+                  end;
+              end;
+          end;
+        s[nb,i,1]:=na;{对于边界点特殊判断}
+        s[nb,i,2]:=nc;
+        dp[nb,i,1]:=jla(na,nb)+jlc(nc,nb-i+1)+b[nb]-b[nb-i+1];
+        dp[nb,i,2]:=jla(na,nb-i+1)+jlc(nc,nb)+b[nb]-b[nb-i+1];
+      end;
+    for i:=1 to nb do{递推计算ans}
+      begin
+        ans[i]:=maxlongint;
+        if i<>nb then
+          for j:=1 to i do
+            begin
+              if ans[i-j]+dp[i,j,1]<ans[i] then
+                ans[i]:=ans[i-j]+dp[i,j,1];
+              if ans[i-j]+dp[i,j,2]<ans[i] then
+                ans[i]:=ans[i-j]+dp[i,j,2];
+            end
+        else
+          for j:=1 to i-1 do
+            begin
+              if ans[i-j]+dp[i,j,1]<ans[i] then
+                ans[i]:=ans[i-j]+dp[i,j,1];
+              if ans[i-j]+dp[i,j,2]<ans[i] then
+                ans[i]:=ans[i-j]+dp[i,j,2];
+            end;
+      end;
+    if nb<=1 then{输出，判断数据特殊情况}
+      begin
+        if nb=0 then
+          writeln(jl(a[1],ya,c[1],yc)+jl(a[na],ya,c[nc],yc)+c[nc]-c[1]+a[na]-a[1]:0:2)
+        else
+          begin
+            ans[1]:=jla(1,1)+jlc(1,1)+jl(a[na],ya,c[nc],yc)+a[na]-a[1]+c[nc]-c[1];
+            if jla(na,1)+jlc(nc,1)+jl(a[1],ya,c[1],yc)+a[na]-a[1]+c[nc]-c[1]<ans[1] then
+              ans[1]:=jla(na,1)+jlc(nc,1)+jl(a[1],ya,c[1],yc)+a[na]-a[1]+c[nc]-c[1];
+            writeln(ans[1]:0:2);
+          end;
+      end
+    else writeln(ans[nb]+a[na]-a[1]+c[nc]-c[1]:0:2);
+  end.

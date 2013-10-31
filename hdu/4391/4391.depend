@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1345822658 source:d:\mycode\hdu\4391\4391.cpp
+	<stdio.h>
+	<algorithm>
+	<map>
+	<string.h>
+

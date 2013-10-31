@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1367033052 source:d:\mycode\gcj\2013\q1a\b\b.cpp
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+	<vector>
+	<queue>
+

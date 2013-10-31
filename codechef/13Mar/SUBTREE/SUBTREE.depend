@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362885817 source:d:\mycode\codechef\13mar\subtree\subtree.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

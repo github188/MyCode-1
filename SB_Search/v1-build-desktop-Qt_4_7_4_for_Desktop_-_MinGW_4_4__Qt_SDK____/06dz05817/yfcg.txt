@@ -1,0 +1,13 @@
+
+发表论文10篇，开发软件1项，培养硕士生6名。提出了世博会紧急交通事件的等级划分及预警级别，提出了紧急交通事件与异常事件处理的组织体系与联动机制。确立了紧急交通事件的检测与状态评估理论与算法，构建了紧急交通事件处理系统的总体框架。
+（1）软件著作权：
+[1]“城市道路交通紧急事件处理决策支持系统软件” 
+（2）发表论文：
+[1] 基于网格技术的交通信息服务平台的设计与实现，计算机工程与应用，2007.5
+[2] 城市道路交叉口计算机辅助设计系统，计算机辅助工程，2007.9
+[3] 考虑信号优先的相邻公交停靠站最佳布置方法，公路交通科技，2008.1
+[4] 基于城市公交探测车数据的分析与处理方法，系统工程，2006.8
+[5] 微观交通仿真系统参数校正研究，系统仿真学报，2007.1 
+[6] Research on Basic Concept and Key Technologies of Experimental Traffic System，Proceeding of 7th International Conference of Chinese Transportation Professionals，2007.5
+[7] Joint Modeling Analysis of Trip Chaining Behavior on Round-trip Commute in the Context of Xiamen, China，2008 Transportation Research Record series (Journal of the Transportation Research Board)，2008.1
+[8] Research on Transportation Planning Model Aid Design System。The First International Conference of Transportation Engineering (ICTE)，2007.5

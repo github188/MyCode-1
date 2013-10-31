@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1365922261 source:d:\mycode\2012编程之美demo+sdk+说明文档+环境全安装包\2013\r1b\c\c.cpp
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<stdlib.h>
+
+1365922664 source:d:\mycode\mcontest\2013\r1b\c\c.cpp
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<stdlib.h>
+

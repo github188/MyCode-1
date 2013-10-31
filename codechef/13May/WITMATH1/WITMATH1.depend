@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1367761683 source:d:\mycode\codechef\13may\witmath1\miller-rabin.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+

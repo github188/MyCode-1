@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1342598078 source:d:\mycode\essential_c++\5-1\main.cpp
+	"LIFO_stack.h"
+	"stack.h"
+	"Peek_Stack.h"
+
+1342597608 d:\mycode\essential_c++\5-1\lifo_stack.h
+	"stack.h"
+	<stdio.h>
+
+1342598181 d:\mycode\essential_c++\5-1\stack.h
+
+1342598215 d:\mycode\essential_c++\5-1\peek_stack.h
+	"stack.h"
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1348132011 source:d:\mycode\hdu\2243-check\2243c.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1355127889 source:d:\mycode\codechef\12declong\wordninj\wordninj.cpp
+	<stdio.h>
+	<string.h>
+

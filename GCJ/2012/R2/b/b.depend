@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1338049142 source:d:\mycode\gcj\2012\r2\b\b.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+

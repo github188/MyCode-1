@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1341283116 source:d:\mycode\codechef\12julylong\rrating\rrating.cpp
+	<stdio.h>
+	<queue>
+	<functional>
+	<iostream>
+

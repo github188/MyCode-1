@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1320659149 source:d:\mycode\codechef\11nov\ld0\1.cpp
+	<map>
+	<stdio.h>
+	<iostream>
+

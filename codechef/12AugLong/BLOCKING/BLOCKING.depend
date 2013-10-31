@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1344180003 source:d:\mycode\codechef\12auglong\blocking\blocking.cpp
+	<stdio.h>
+	<algorithm>
+

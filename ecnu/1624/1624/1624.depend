@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1361980744 source:d:\mycode\ecnu\1624\1624\1624.cpp
+	<stdio.h>
+	<math.h>
+	<vector>
+	<stdlib.h>
+	<algorithm>
+

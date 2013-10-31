@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1342344346 source:d:\mycode\codechef\12julylong\addchain\addchain.cpp
+	<string.h>
+	<stdio.h>
+

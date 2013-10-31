@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1316705146 source:d:\mycode\pku\3349.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

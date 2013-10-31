@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1345860227 source:d:\mycode\sgu\sgu390\sgu390.cpp
+	<iostream>
+	<stdio.h>
+

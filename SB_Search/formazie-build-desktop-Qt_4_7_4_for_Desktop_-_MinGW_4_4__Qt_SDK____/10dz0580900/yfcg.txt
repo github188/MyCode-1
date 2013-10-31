@@ -1,0 +1,19 @@
+ 
+通过本项目的资助，项目组获得发明专利授权1项，申请发明专利2项，发表学术论文7篇，提交国际标准化提案2项，出版著作1部。
+（1）申请专利：
+[1]张兆杨、刘苏醒、安平等，汇聚式相机的多视点采集/显示系统中新视点重建方法，发明专利，专利号ZL2008 1 0040630.6，授权公示日2010.09.15.
+[2]安平、张倩、张兆扬,感兴趣区域增强的视点绘制方法: 发明专利.申请号：201010215416.7，申请日期2010.06.29.
+[3]王永芳、张兆杨，一种不均等功耗有效控制的视频传输方法，发明专利，申请号：2010101175679，申请日：2010.03.04
+（2）发表论文：
+[1] Q Zhang, P An, Z-Y Zhang, H Wang, Y-F Wu and G-Y Jiang, New Reconstruction method for Intermediate views from Multiple Views, The Imaging Science Journal, Vol.58, No.2, 2010, pp. 89-95（SCI 000277444200003）
+[2] 张倩、安平、张兆杨、吕朝辉，基于视差稠密化的视图合成，高技术通信，2010,vol.20 No.8,pp:828-832(Ei 20103713225873)
+[3] Yan Zhang, Ping An, Yanfei Wu, zhaoyang Zhang. A Multiview Video Quality Assessment Method Based on Disparity and SSIM. ICSP2010 Beijing,2010.10,1044-1047（EI源）.
+[4] Yanfei Wu, Ping An, Ping Wang, Zhaoyang Zhang. Stereoscopic Video Conversion Based on Depth Tracking. ICSP2010 Beijing,2010.10,1190-1193（EI源）.
+[5] Qian Zhang, Ping An, Zhaoyang Zhang. New intermediate view synthesis method based on Tikhonov regularization. ICSP2010 Beijing,2010.10,1217-1219（EI源）
+[6] Zhang Yang, An Ping, Wang He, Zhang Zhaoyang, A Rectification Algorithm for Un-calibrated Multi-view image Based on SIFT Features. Proceedings of 2010 International Conference on Audio, Language and Image Processing (ICALIP2010), 143-174,November, 2010, Shanghai, China. （EI源）
+[7] 程明明，王贺，安平，张洋，张兆杨. 基于特征点匹配的多视图像校正，液晶与显示，Vol.25, No.4, pp. 593-597, 2010.04.
+（3）国际标准化提案：
+[1]ISO/IEC JTC1/SC29/WG11 MPEG2010/m18519, Enhancement of Depth Estimation, Qiuwen Zhang, Ping An, Qian Zhang Yan Zhang and Zhaoyang Zhang, Oct. 2010, October 2010, Guangzhou, China.
+[2]ISO/IEC JTC1/SC29/WG11 MPEG2010/m18535,Depth map enhancement for view synthesis. Qian Zhang; Ping An; Ran Ma;Qiuwen Zhang; Zhaoyang Zhang. Oct. 2010, October 2010, Guangzhou, China.
+（4）出版著作：
+[1] 张兆杨，安平，张之江等，《二维和三维视频处理及立体显示技术》，科学出版社2010年4月.

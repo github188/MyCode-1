@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1326250451 source:d:\mycode\codechef\12_jan\ambidex\ambidex.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+

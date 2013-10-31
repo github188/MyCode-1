@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1367722298 source:d:\mycode\codechef\13may\name2\kmp.cpp
+	<iostream>
+	<string.h>
+

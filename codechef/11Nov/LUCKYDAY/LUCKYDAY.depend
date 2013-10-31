@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1320944151 source:d:\mycode\codechef\11nov\luckyday\luckyday.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+

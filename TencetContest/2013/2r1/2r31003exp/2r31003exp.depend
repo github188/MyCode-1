@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1364733252 source:d:\mycode\tencetcontest\2013\2r1\2r31003exp\1003.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<cstdio>
+	<algorithm>
+	<set>
+	<map>
+	<queue>
+	<string>
+	<list>
+	<vector>
+	<stdio.h>
+	<math.h>
+

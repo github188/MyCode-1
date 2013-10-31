@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366440559 source:d:\mycode\mcontest\2013\r2\a\a.cpp
+	<stdio.h>
+	<string>
+	<vector>
+

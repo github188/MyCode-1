@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1338693029 source:d:\mycode\astar\2012\r1b\a\a.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

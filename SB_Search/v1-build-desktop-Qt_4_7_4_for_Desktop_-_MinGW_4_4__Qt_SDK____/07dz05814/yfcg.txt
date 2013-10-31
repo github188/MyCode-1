@@ -1,0 +1,15 @@
+
+研制的多套先进膜材料小试装置达到连续运行，出水水质好、稳定，达到考查膜分离性能的目的，整个运行期间抽吸压力维持在50KPa以下，优于合同规定的指标。
+开发不锈钢的、可移动式新型MBR中试研究装置，处理规模为40m3/d，采用具有自主知识产权的先进PVC中空纤维膜材料可实现污水深度处理，出水指标稳定，达到国家景观水标准，运行成本低于0.8元/m3污水。
+通过本课题的研究，申请国家专利3项，在国内外核心期刊上发表学术论文6篇，培养博士、硕士研究生3人。
+（1）申请专利：
+[1] 处理污水或微污染原水集装式阶段性膜生物反应器装置，专利号：101186416.
+[2] 一种处理饮用水中氧化性污染物质的装置，专利申请号：200810202126.1
+[3]利用奇异变形杆菌制备生物絮凝剂的方法，专利申请号：zl200710042196.0
+（2）发表论文：
+[1] Siqing Xia, et al. Performance of a pilot-scale submerged membrane bioreactor (MBR) in treating bathing waster[J] Bioresource Technology，2008, 99:6834-6843 (SCI ＆ EI, IF 3.103).
+[2] Guo Ji-feng , et al. Study on Membrane Fouling of Submerged Membrane Bioreactor (MBR) for Treating Bathing Wastewater[J] Journal of Environmental Sciences, 2008, 20:1158-1167 (SCI ＆ EI).
+[3]童浩等. 膜分离技术处理水环境中内分泌干扰物质研究进展[J] 中国给水排水,2009,25(02):5-9.
+[4]夏四清等. 氢自养反硝化去除水中硝酸盐的影响因素研究[J] 中国给水排水,2008, 24(21): 5-8.
+[5]张彦浩等.利用氢自养反硝化菌处理硝酸盐污染地下水的研究[J] 水处理技术, 2009，35 (05)：75-78.
+[6] Yanhao Zhang, Fohua Zhong, Siqing Xia, XuejiangWang, Jixiang Li. Autohydrogenotrophic denitrification of drinking water using a polyvinyl chloride hollow fiber membrane biofilm reactor. Journal of Hazardous Materials, 2009,170(1):203-209. (SCI ＆ EI, IF 2.975).

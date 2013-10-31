@@ -1,0 +1,44 @@
+
+课题针对中国2010年上海世博会工程进度紧迫、质量控制困难、投资控制任务艰巨以及组织协调复杂等问题，归纳出项目构成、组织结构、进度控制、信息沟通的复杂性以及项目管理的社会属性等大型群体工程的复杂性特征，提出了以五大技术为核心的大型复杂项目群系统性控制思想。 
+深入研究了工程项目有序管理和系统性控制中起关键作用的大型群体复杂项目的结构化分解技术，建立形成了以项目对象分解技术为基础的结构化项目管理创新体系。
+深入研究了大型群体复杂项目的组织策划技术，构建了大型群体复杂项目的组织策划内容、方法和工具，提出工程管理的三维视角体系，在世博会工程建设指挥部得到有效的应用，极大地提高了组织效率。
+在理论研究的基础上，结合上海世博园区建设工程对质量、投资、进度等要素的特殊要求和严格目标控制，研究建立了工程建设进度控制的优化系统，为大型复杂群体工程多目标的实现提供技术支撑，拓展了项目群进度目标控制技术的计划系统理论，为中国馆、主题馆等一轴四馆和城市实践区、自建馆等工程建设的按质按期完成提供了保障。
+研究开发了适应于网络环境下国内领先的大型复杂群体工程投资控制与合同管理计算机集成系统，创建和研制了C3A应用程序，实现了大型群体复杂工程投资控制、合同管理、信息交流与共享三位一体的集成化管理体系，解决了传统项目管理信息系统PMIS投资数据与合同信息相分离的弊病，在世博项目上经受了海量数据的考验，获得国家审计部门的好评；研究方法科学，研究成果具有前瞻性、系统性，软件工具操作性强。 
+经过课题研究，有1名博士后出站、5人完成相关硕士论文答辩、3人正在撰写博士论文、4人已完成博士论文开题报告，在国内外专业会议上作报告16次，为建设施工企业技术和管理干部举办专题讲座10 次，在国内外核心期刊上发表论文27篇。研究团队获2008年度上海市重大工程建设卓越管理杯，课题组成员7人次获上海市建设工程功臣和重大工程立功竞赛记功等相关奖项。
+(1) 发表论文情况：
+[1]李永奎，乐云，何清华.2010年上海世博会运行综合管理系统研究[J].计算机工程.2007,3.
+[2]何清华，李永奎，乐云.上海2010年世博会信息化集成与管理系统研究[J].同济大学学报（自然科学版）.2007,6.
+[3]乐云，何清华.受业主委托提供项目管理服务的思考和建议[J].建筑经济.2007,6.
+[4]乐云，刘海峰.上海世博村项目管理的实施与组织研究[J].建筑施工.2007,7.
+[5]乐云，何清华，宋志航.设计过程的项目管理[J].建筑经济.2007,8.
+[6]黄仲嘉.上海世博会园区建设管理模式的思考[J].科技信息.2008,5.
+[7]何清华，李永奎，乐云.中国2010年上海世博会项目管理[A].第二届中国工程管理论坛文集[C].2008,8.
+[8]乐云，佘志鹏.上海世博会工程建设整体项目管理[A].第二届中国工程管理论坛文集[C].2008,8.
+[9]李永奎，何清华，乐云.大型群体工程管理的成功：组织视角—中国2010年上海世博会案例[A].第二届中国工程管理论坛文集[C].2008,8.
+[10]LI Yongkui, HE Qinghua, LE Yun. Oraganization strategy for large-scale construction programme management case study of expo 2010 shanghai china[C]. IPMA World Congress＂Project Management to Run＂9-11 November 2008, Roma, Italy.2008,9.
+[11]HE Qinghua, LI Yongkui, LE Yun，LU Yujie. Project management in world expo 2010 shanghai china[C]. IPMA World Congress＂Project Management to Run＂9-11 November 2008, Roma, Italy.2008,9.
+[12]LI Yongkui, HE Qinghua, LE Yun，LIU Zhe. Time control in mega construction programme management based on meta-case study of expo 2010shanghai china[C]. Prceedings of 2008 internationgal conference on construction＆real estate management.2008,9.
+[13]MA Liang, XU Huixuan. Systemic Value Methodology for Complex Mega Construction Programme：Application of World Expo 2010 Shanghai China[C].2008年大中华地区价值管理会议.2008,11.
+[14]陈迅，马亮.大学生参与公共项目实践的德育功能——以大学生参与世博会为例[A].城市发展与管理?2008管理发展与工业工程识论坛[C].2008,9.
+[15]冯永存，罗晟.上海世博会浦东临时场馆设计管理工作的思考[J].建筑施工.2009,3.
+[16]蒋新山.上海世博村E 地块甲级办公楼地下工程施工技术及措施[J].建筑科学.2009,3.
+[17]许慧璇. 项目群中单项工程间的界面管理与协调[J]. 中国集体经济.2008,3.
+[18]马亮，乐云，李永奎.上海世博会工程建设管理中的文化协同探究[J].建设监理.2009,4.
+[19]罗晟，张菁，乐云，何清华.上海世博会临时场馆项目群实施策划框架研究[J].建筑经济.2009,4.
+[20]何剑芳，何清华.2010年上海世博会建设群体项目管理研究[J].建设监理.2009,4.
+[21]张悦颖，韦展，乐云.2010年上海世博会进度计划系统与组织系统集成研究[J].建设监理.2009,6.
+[22]乐云，张悦颖，何清华.2010年上海世博会建设项目界面管理研究[J].项目管理技术.2009,6.
+[23]胡毅.基于可持续发展战略的上海世博会项目群管理研究[D].2007,2.
+[24]韦展.大型复杂项目群进度计划与控制研究——2010年上海世博会为例[D].2009,3.
+[25]聂黎明.基于复杂性科学的项目管理范式转换研究[D].2009,3.
+[26]黄旭阳.大型会展项目工程建设VIK材料设备管理研究——基于2010年上海世博会[D].2009,3.
+(2) 已录用待发表：
+[1]胡毅 何清华 黄苏生，上海世博会世博村项目群组织管理研究，建设监理
+[2]MA Liang，The Study of Harmonious Together-development Model for Large Project with the Community during the Construction Stage of Shanghai 2010 Expo China，The 2009 International Conference on EngineeringManagement and Service Sciences(IEEE)，（EI检索）
+[3]Li Yongkui,Lu Yujie，Application of Department of Integrative System Design inlarge and complex projects，The 2009 International Conference on EngineeringManagement and Service Sciences(IEEE) ，（EI检索）
+[4]LE Yun，JIANGWeiping，HEQinghua，Social Network Model of Complex Projects Organization，The 2009 International Conference on EngineeringManagement and Service Sciences(IEEE)，（EI检索）
+[5]HE Qinghua,JIANG Weiping,LI Yongkui,LE Yun ，The Study on Paradigm shift of prosect management based on complexity science prosect management innovations in shanghai 2010 expo construction program，2009IEEE International conference on Industrial Engineering and Engineering Management ，（EI检索）
+[6]HE Qinghua,JIANG Weiping,LI Yongkui,LE Yun ，The Study on Paradigm shift of prosect management based on complexity science prosect management innovations in shanghai 2010 expo construction program，2009IEEE International conference on Industrial Engineering and Engineering Management ，（EI检索）
+[7]LE Yun，REN Jun-shan, HE Qing-hua, LI Yong-kui , ZHU Yu-bing，Research on the Multiagent Cooperation Pattern in Construction planning of Large-Scale Construction Programme，2009管理科学与工程国际会议，（EI检索）
+[8]HE Qinghua,JIANG Weiping,PENG Yong,LI Yongkui ，Study on integrated information system of world expo 2010 shanghai construction and operation management，2009IEE 16th international engineering and engineering management，（EI检索）
+[9]张雪武、何清华，上海世博村E、F地块建设项目推行建设工程风险管理制度的实践探索，施工技术

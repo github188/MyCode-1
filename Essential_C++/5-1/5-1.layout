@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="LIFO_stack.h" open="1" top="0" tabpos="2">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="Peek_Stack.h" open="1" top="0" tabpos="4">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="116" topLine="3" />
+	</File>
+	<File name="stack.h" open="1" top="0" tabpos="1">
+		<Cursor position="317" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

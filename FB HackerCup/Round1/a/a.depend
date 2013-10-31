@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359854026 source:d:\mycode\fb hackercup\round1\a\a.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

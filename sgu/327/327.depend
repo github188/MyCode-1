@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1334331606 source:d:\mycode\sgu\327\sgu327.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+

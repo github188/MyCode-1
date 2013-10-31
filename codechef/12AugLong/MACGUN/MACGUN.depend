@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1344247076 source:d:\mycode\codechef\12auglong\macgun\macgun.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<cstring>
+	<cmath>
+	<climits>
+	<algorithm>
+	<cstdio>
+

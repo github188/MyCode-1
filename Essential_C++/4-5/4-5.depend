@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1341848035 source:d:\mycode\essential_c++\4-5\matrix.cpp
+	"matrix.h"
+	<stdio.h>
+
+1341847840 d:\mycode\essential_c++\4-5\matrix.h
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1338830726 source:d:\mycode\codechef\12junlong\parpoly\parpoly.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+

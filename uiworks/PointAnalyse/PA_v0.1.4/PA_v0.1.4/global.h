@@ -1,0 +1,9 @@
+#define SCALE 50
+#define PICSCALE 3
+#define FIGR 100
+#define MAX_CUR_POINT 2
+#define POINT_R 4
+#define DIFF_R 15
+#define BUF_SIZE 5
+#define TIME_DELAY 2
+#define MINLINE 2

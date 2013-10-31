@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1333976386 source:d:\mycode\codechef\12aprillong\simgraph\simgraph.cpp
+	<stdio.h>
+	<algorithm>
+

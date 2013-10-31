@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1342460980 source:d:\mycode\essential_c++\5_exp\main.cpp
+	"fib.h"
+	"sqr.h"
+
+1342461144 d:\mycode\essential_c++\5_exp\fib.h
+	<iostream>
+	<vector>
+	<string.h>
+	"seq.h"
+
+1342460120 d:\mycode\essential_c++\5_exp\seq.h
+
+1342461080 d:\mycode\essential_c++\5_exp\sqr.h
+	<iostream>
+	<vector>
+	<string.h>
+	"seq.h"
+
+1342460890 source:d:\mycode\essential_c++\5_exp\fib.cpp
+	"fib.h"
+
+1342460822 source:d:\mycode\essential_c++\5_exp\sqr.cpp
+	"sqr.h"
+

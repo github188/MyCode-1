@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1364530643 source:d:\mycode\topcoder\marathon\13mmr1\mmr1\main.cpp
+	"SnowCleaning.h"
+	<fstream>
+
+1365248110 d:\mycode\topcoder\marathon\13mmr1\mmr1\snowcleaning.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<set>
+	<math.h>
+
+1364530400 source:d:\mycode\topcoder\marathon\13mmr1\mmr1\snowcleaning.cpp
+	"SnowCleaning.h"
+

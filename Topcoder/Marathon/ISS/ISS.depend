@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1359460095 source:d:\mycode\topcoder\marathon\iss\main.cpp
+	<stdio.h>
+	"ISS.h"
+
+1359462825 d:\mycode\topcoder\marathon\iss\iss.h
+	<vector>
+
+1359463187 source:d:\mycode\topcoder\marathon\iss\iss.cpp
+	"ISS.h"
+	<math.h>
+

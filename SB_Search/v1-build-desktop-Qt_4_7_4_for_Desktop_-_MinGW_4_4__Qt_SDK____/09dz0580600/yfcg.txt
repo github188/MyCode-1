@@ -1,0 +1,20 @@
+
+本项目共申请专利6项（实用新型），全部受理；发表论文10篇，其中EI检索3篇，培养博士生3名，硕士生10名。
+（1）申请专利：
+[1] 一种提高防水性能的整车控制器外部结构，专利号201020269850.9，实用新型，已授权。
+[2] 一种能够优化整车控制器固定方式的结构，专利号201020269844.3，实用新型，已授权。
+[3] 一种集成了加速度传感器的动力总成控制器，申请号201020269840.5，实用新型，申请中。
+[4] 新能源汽车总成控制器中的主从芯片控制结构，申请号201020269828.4，实用新型，申请中。
+[5] 一种车用控制器的低功耗电路，授权号201020269801.5，实用新型，已授权。
+[6] 一种整车控制器的外部结构，申请号201020269796.8，实用新型，申请中。
+（2） 发表论文：
+[1] 钟再敏、熊云，The offline fault diagnosis of FCV powertrain based on CAN bus，2009 IEEE Intelligent Vehicles Symposium，ISSN：1931-0587（EI：20094712492497）.
+[2] 罗峰、陈杰，Research On CAN controller conformance test system，Proceedings of IEEE International Conference on Computer Science and Information Technology, 2009.08, ISBN: 978-1-4244-4519-6（EI20094612454548）.
+[3] 罗峰、黄志辉，Route memorization in real-time data processing using Run-Length Encoding，Proceedings of IEEE Intelligent Vehicles Symposium，2009.06，ISBN：978-1-4244-3503-6（EI：20094712492593）.
+[4] 钟再敏、罗昕，A HIL Test Bench for FCHV Control Unit，2009 IEEE Vehicle Power and Propulsion Conference，2009.09.
+[5] 左曙光、张世炜，A Study on Structural Optimization of Hydrogen-supply System Cabinet in Fuel Cell Vehicle，2009 IEEE Intelligent Vehicles Symposium，2009.6.
+[6] 钟再敏、杨红，Fault-Tolerant Control of PMSM Drive Unit，2009 IEEE Vehicle Power and Propulsion Conference，2009.9.
+[7] 左曙光、申秀敏，NVH Research Based on Fuel Cell Vehicle，2009 IEEE Intelligent Vehicles Symposium，2009.6.
+[8] 钟再敏、熊云，The Analysis of the Factors Impacting Energy Feedback Efficiency of Fuel Cell Vehicles，2009 IEEE Vehicle Power and Propulsion Conference，2009.9.
+[9] 钟再敏、孔国玲，Vehicle Starting Control of Wet Clutch for Continuously Variable Transmission，2009 IEEE Vehicle Power and Propulsion Conference，2009.9.
+[10] 钟再敏、熊云，Object-oriented fault modeling and simulation of DCDC converter for electric vehicle，2009PEDS年会论文集，2009.11.

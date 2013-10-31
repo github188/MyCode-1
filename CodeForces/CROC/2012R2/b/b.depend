@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1334941457 source:d:\mycode\codeforces\croc\2012r2\b\b.cpp
+	<string.h>
+	<iostream>
+

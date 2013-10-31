@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1341199624 source:d:\mycode\codechef\12julylong\graysc\graysc.cpp
+	<stdio.h>
+	<algorithm>
+	<iostream>
+

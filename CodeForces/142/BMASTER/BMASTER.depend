@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1349711687 source:d:\mycode\codeforces\142\bmaster\bmaster.cpp
+	<stdio.h>
+	<map>
+	<vector>
+	<iostream>
+

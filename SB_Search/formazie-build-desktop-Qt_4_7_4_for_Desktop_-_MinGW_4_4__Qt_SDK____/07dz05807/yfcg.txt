@@ -1,0 +1,16 @@
+ 
+以上海世博园区世博轴地下综合体建设工程为背景，进行了施工期、服役期性能的计算与分析，综合应用结构合理分块设缝、预应力抗裂设计、纤维混凝土改性等技术，被设计和施工方采纳，直接为上海世博园区世博轴的建设提供技术支持和设计施工指导，确保了工程建设的顺利完成。
+建立了考虑日照辐射作用的结构效应动态分析计算模型，应用于超长、大开洞、半敞开地下结构的混凝土裂缝分析。
+通过模型试验、颗粒流数值模拟、现场试验等综合手段的采用，研究了扩底抗拔桩群的工作机理，提出了扩底抗拔桩群的设计分析模型，并已成功应用于世博轴地下综合体等大型地下工程。
+对世博轴A单元、浦明路过路段、北环路过路段进行现场检测，并与设计结构进行比对。
+进行了超长地下结构的扩底抗拔桩试验。组建了以地下结构混凝土裂缝控制、抗拔桩性能为研究方向的科研团队。
+申请一项实用新型专利；发表论文6篇，培养博士1名，硕士3名。
+（1）申请专利：
+[1] 一种实体群桩竖向抗拔静载荷试验系统（专利受理号：200920210588.8）
+（2）发表的论文及专著：
+[1]Y. Yuan. Challenges in underground construction [J]. Proceedings of the Institution of Civil Engineers- Municipal Engineer，2008，录用（SCI 源刊）
+[2]Y. Yuan，H. L. Zhao and X. F. Bao. Design for a large underground space [J]. Proceedings of the Institution of Civil Engineers- Municipal Engineer，2008，录用（SCI 源刊）
+[3]Zhang Yiming, Yuan Yong, Coupled Multi-Physical Fields Analysis of Early Age Concrete, CSE 2009
+[4]袁勇，张一鸣，张麒.监测混凝土早期变形对边界参数的反分析.地下空间与工程学学报（增刊），2009，已录用
+[5]吴峰，王浩，葛潇. 地下结构大开洞楼板的受力分析．工业建筑，2009（增刊）
+[6]孙洋波，朱光裕.软土地区恒载作用下抗拔桩的实验分析。地下空间与工程学报,2009年12月（增刊）

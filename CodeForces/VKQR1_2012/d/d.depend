@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1330856072 source:d:\mycode\codeforces\vkqr1_2012\d\d.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+

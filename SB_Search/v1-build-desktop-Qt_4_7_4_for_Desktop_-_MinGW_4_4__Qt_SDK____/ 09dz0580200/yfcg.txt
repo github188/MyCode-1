@@ -1,0 +1,22 @@
+本项目申请专利8项，发表论文7篇，形成标准4项。
+（1）申请专利： 
+[1] 树木根部消毒装置 ZL200920076185.9.
+[2] 一种半有源RFID测温标签 ZL200920286753.8.
+[3]变频工作的射频识别读写器、无线射频识别系统及方法 2009100513529
+[4] 冰箱用射频识别阅读天线 201010159559.0.
+[5] 进口食品质量追溯管理系统V1.0 2010SR061007.
+[6] 世博园区有害生物监测管理系统V1.0 2010SR041795.
+[7] 进口食品质量追溯系统数据同步软件V1.0 2010SR068040.
+[8] 新型低能耗环保型检疫物及不合格食品无害化处理装置ZL 2010 2 0145388.1
+(2)发表论文：
+[1] Rui-Ting Ju, Feng Wang, Fang-Hao Wan, Bo Li. 2011. Effect of host plants on development and reproduction of Rhynchophorus ferrugineus, (Coleoptera: Curculionidae). Journal of Pest Science, 84(1): 33-39. (SCI)
+[2] Rui-Ting Ju, Yu-Yu Xiao, Feng Wang, Bo Li. 2010. Supercooling capacity and cold hardiness of the adults of the sycamore lace bug, Corythucha ciliata (Hemiptera: Tingidae). CryoLetters, 31(6): 445-453. (SCI)
+[3] Yue-Zhong Li, Zeng-Rong Zhu, Rui-Ting Ju, Lian-sheng Wang. 2009. The red palm weevil, Rhynchophorus Ferrugineus (Coleoptera: Curculionidae), newly reported from Zhejiang, China and update of geographical distribution. Florida Entomologist, 92(2): 386-387. (SCI)
+[4] 赵明, 鞠瑞亭. 2010. 温度对红棕象甲实验种群生长发育及繁殖的影响. 植物保护学报, 37(6): 517-521.
+[5] 叶军，房蕊，易建平，周国梁，郑建中. 2010. 4种实蝇线粒体DNA全序列测定. 植物检疫，24（3）：11-14.
+[6] 周国梁,尚琳琳,于翠,印丽萍,徐殿胜,易建平.2010. 进境油菜籽中黑胫病菌和茎基溃疡病菌的检测. 植物保护学报，37（4）：289-240.
+[7] 尚琳琳,周国梁,仇书红，陈仲兵，徐殿胜,易建平. 2010. 美国进境樱桃果实中梨火疫病菌的检测. 植物保护学报. 37(5): 441-446
+(3) 形成标准：
+[1] 刺亦模检疫鉴定方法（送审稿）. [2] 霍氏长盾蚧检疫鉴定方法 （送审稿）. 
+[3] 松唐盾蚧检疫鉴定方法 （送审稿）. 
+[4] 南芥菜花叶病毒分子生物学检测方法（报批稿）.

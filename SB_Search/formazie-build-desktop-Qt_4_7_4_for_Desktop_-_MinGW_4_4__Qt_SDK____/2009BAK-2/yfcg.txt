@@ -1,0 +1,22 @@
+
+(1)已申请发明专利8项，专利内容如下：
+[1] 申请号：201010112364.0，发明专利名称-“一种集成流场结构的膜电极组件及其燃料电池”；
+[2] 申请号：201010121996.3，发明专利名称-“一种基于燃料电池的备用电源系统”；
+[3] 申请号：201010144160.5，发明专利名称-“一种基于燃料电池备用电源系统的控制方法”；
+[4] 申请号：201010208177.2，发明专利名称-“一种基于燃料电池的应急发电车”；
+[5] 申请号：201020116807.9 ，实用新型专利名称-“一种集成流场结构的膜电极组件及其燃料电池”；
+[6] 申请号：201020122509.0，实用新型专利名称-“一种可扩展的燃料电池单片电压巡检系统”；
+[7] 申请号：201020128350.3，实用新型专利名称-“一种基于燃料电池的备用电源系统”；
+[8] 申请号：201020160727.3，实用新型专利名称-“一种质子交换膜燃料电池测试平台”；
+(2) 已发表和录用论文8篇，论文具体信息如下：
+[1] D.J. Yang, B. Li, K. Tao, H. Lv, J.S. Zheng, J.X. Ma. Enhanced Activity of Ir-V as Anode Catalyst for PEMFC at Elevated Temperature. ECS Transactions, 2010, 33 (1): 287-292. (SCI).
+[2] 陶侃,杨代军,郑晓亮,傅婧,马建新.基于FLUENT 不同温度条件下的PEMFC 模拟分析. 电源技术. 2010, 34(4): 395-398. (EI)
+[3] Hao Zhang, Daijun Yang, Kan Tao, Xiaoliang Zheng, Jianxin Ma. Investigation of PEMFC Stack Operating at Elevated Temperature. 25th World Electric Vehicle Symposium, Shenzhen, China, November 5-9, 2010.
+[4] Xiaoliang Zheng, Daijun Yang, Kan Tao, Hao Zhang and Jianxin Ma. Design of Forced Air-cooling Structure for Elevated Temperature PEMFC, 25th World Electric Vehicle Symposium, Shenzhen, China, November 5-9, 2010.
+[5] Tian Tang, DaiJun Yang, Lin Xu, JianXin Ma, HaiJiang Wang. Temperature gradient behavior of PEMFC stack under dynamic load cycling, International conference of hydrogen and fuel cell (HFC-2009), Vancouver, Canada, May 31-June 3, 2009.
+[6] Tao Kan, Xu Lin, Yang Daijun, Ma jianxin. Effect of flow distribution on durability of PEM fuel cell stack. 同济大学枫林学院第XIII期, 2010.3
+[7] Ma Tian-Cai，Sun Zhe-Chang, Lou Jie-Liang, Li Feng. A Scalable Solution of Fuel Cell Backup Power for Telecommunications Facilities. ICEICE, 2011.4.（已录用，论文编号W4501844）
+[8] ChengCheng Yin, Jiang Wang, Ma Tian-Cai. System Design of Mobile Emergency Power Plant Based on Full Cells. ICEICE, 2011.4.（已录用，论文编号W382658）
+(3) 项目实施取得的主要成效
+我国在燃料电池分布式电源领域的应用目前尚处于起步阶段，不仅没有可用于商业化示范运行的、相对成熟的产品，而且在专利和文献等方面的成果也非常有限，并很少涉及实际运行中必须关注的关键零部件的匹配、电源快速切换、燃料电池系统的快速启动和系统可扩展性等核心问题。本项目在实施过程中,不仅在国内首次开发水冷式5kW级燃料电池备用电源系统，并进行了长时间的示范运行，填补了国内在此领域的空白。
+在项目实施过程中掌握了快速接入技术、多通道智能气体分配技术、复杂系统的协调控制技术及复杂高密度系统的热量管理与降噪技术等关键技术。

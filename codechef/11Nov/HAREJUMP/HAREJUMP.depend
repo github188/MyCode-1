@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1320483046 source:d:\mycode\codechef\11nov\harejump\harejump.cpp
+	<iostream>
+	<string.h>
+

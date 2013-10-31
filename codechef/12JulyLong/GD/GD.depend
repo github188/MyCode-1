@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1342886793 source:d:\mycode\codechef\12julylong\gd\gd.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+

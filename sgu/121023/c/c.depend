@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1319365942 source:d:\mycode\sgu\121023\c\c.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<iostream>
+

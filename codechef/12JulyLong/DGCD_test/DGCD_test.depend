@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1342885667 source:d:\mycode\codechef\12julylong\dgcd_test\dgcd_test.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<assert.h>
+

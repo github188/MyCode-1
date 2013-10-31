@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1320557193 source:d:\mycode\codechef\11nov\postal\postal.cpp
+	<stdio.h>
+	<string.h>
+

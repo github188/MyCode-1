@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1332088535 source:d:\mycode\codechef\12marchcookoff\d\d.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+

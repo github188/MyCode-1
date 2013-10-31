@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1327980673 source:d:\mycode\sgu\sgu385\385.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<string.h>
+

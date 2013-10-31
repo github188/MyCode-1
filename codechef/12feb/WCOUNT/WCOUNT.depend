@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1328114473 source:d:\mycode\codechef\12feb\wcount\wcount.cpp
+	<iostream>
+	<string.h>
+

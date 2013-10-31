@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1355124319 source:d:\mycode\codechef\12declong\diftrip\diftrip.cpp
+	<stdio.h>
+	<vector>
+	<cstdlib>
+	<memory.h>
+	<iostream>
+	<algorithm>
+	<iostream>
+	<cstring>
+

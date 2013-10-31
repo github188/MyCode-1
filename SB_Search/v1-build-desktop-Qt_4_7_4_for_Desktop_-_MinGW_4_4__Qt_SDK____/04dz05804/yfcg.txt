@@ -1,0 +1,25 @@
+
+经过本项目的实施，共申报专利发明10项，发表论文10篇。
+（1）申请专利：
+[1] 任杰, 李申, 任天斌. 一种新型绿色全降解树脂的制备方法. 发明专利,申请号：2005100279684.
+[2] 任杰, 李申, 任天斌. 一种脂肪族聚酯淀粉粘土三元全降解树脂的制备方法. 发明专利,申请号：2005100279699.
+[3] 任杰, 董博. 一种聚乳酸/蒙脱土纳米复合材料的制备方法. 发明专利,申请号：200510030494.9
+[4] 顾书英, 詹辉, 任杰. 一种高韧性生物可降解复合材料的制备方法. 发明专利, 申请号: 200610023114.3
+[5] 任杰,赵鹏,任天斌,顾书英. 一种生物全降解聚酯共聚物的制备方法. 发明专利, 申请号: 200610029900.4.
+[6] 任杰,赵鹏,任天斌,顾书英. 一种开环聚合制备生物全降解共聚物的方法. 发明专利, 申请号:200610029901.9.
+[7] 任杰,赵鹏,任天斌,顾书英.生物全降解聚乳酸基多元嵌段聚合物的制备方法. 发明专利, 申请号: 200610030922.2.
+[8] 任杰,刘智勇, 袁华.一种吸塑用聚乳酸泡沫塑料片材及其制备方法. 发明专利, 申请号: 200610117069.8.
+[9] 任杰,张乃文,王秦峰. Method for Preparing Poly(lactic acid)-based resin and its co-polymer. 发明专利, 申请号: US11/335,575.
+[10] 任杰,张乃文,王秦峰. 聚乳酸组合物及其制备. 发明专利, 申请号: PCT/CN2008/070185.
+（2）发表论文：
+[1] 任杰, 董博. 聚乳酸纤维制备的研究进展. 材料导报, 2006, 20(2): 82-85.
+[2] 顾书英, 詹辉, 任杰. 聚乳酸/PBAT复合材料的制备及其性能研究.中国塑料, 2006, 20(10): 39-42.
+[3] 李申, 周晔, 任天斌, 任杰. 聚乳酸/淀粉复合材料的制备及性能研究. 塑料, 35(4):7-11.
+[4] 任杰，张振武，任天斌，廖文俊. 双螺杆反应挤出法制备聚乳酸的研究. 塑料工业, 2006, 34(8):1.
+[5] 任杰，张振武. 反应挤出在聚乳酸合成及改性中的应用进展. 材料导报，2006，20（10）：68.
+[6] 任杰，李申，任天斌. 反应挤出研究进展。建筑材料学报，2006（2）：66-71.
+[7] ShuYing Gu, Jie Ren, Bo Dong.Melt Rheology of Polylactide/Montmorillonite Nanocomposites. Journal of Polymer Science, Part B: Polymer Physics. 2007, 45:3188-3195. 
+[8] Jie Ren, Zichao Liu, Tianbin Ren. Mechanical and Thermal Properties of Poly(lactic Acid)/Starch/Montmorillonite Biodegradable Blends. Polymer and Polymer Composites, 2007, 15(8): 633-637.
+[9] Jie Ren, Tao Yu, Hang Li, Tianbin Ren, Shuang Yang. Studies on Morphologies and Thermal Properties of Poly(lactic acid)/Polycaprolactone /Organic-Modified Montmorillonite Nanocomposites. Polymer Composites, 2007, (accepted).
+[10] Shu-Ying Gu, Ke Zhang, Jie Ren, Hui Zhan. Melt rheology of polylactide/poly(butyleneadipate-co-terephthalate) blends. Carbohydrate Polymers, 2008, (accepted).
+研发丙交酯开环聚合法制备低成本聚乳酸，分子量超过40万；乳酸直接缩聚法制备低成本聚乳酸取得实质进展，分子量超过10万；制备出与聚乳酸相容性较好的有机改性蒙脱土；掌握了包装材料制品的吹塑、挤出、注塑等加工技术。
