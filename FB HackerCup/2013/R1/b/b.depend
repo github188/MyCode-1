@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1386443166 source:d:\mycode\fb hackercup\2013\r1\b\b.cpp
+	<string.h>
+	<fstream>
+
