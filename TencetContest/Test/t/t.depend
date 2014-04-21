@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394590754 source:d:\mycode\tencetcontest\test\t\t.cpp
+	<vector>
+	<stdio.h>
+	<string.h>
+	<math.h>
+

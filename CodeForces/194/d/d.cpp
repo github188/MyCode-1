@@ -25,6 +25,10 @@ bool check(int o)
 
 int main()
 {
+    freopen("b.in","r",stdin);
+    freopen("b.out","w",stdout);
+    int t;scanf("%d",&t);
+    while (t--){
     mi=1e9;ma=0;
     scanf("%d%d",&n,&m);
     for (int i=0;i<n;i++) for (int j=0;j<m;j++)
@@ -38,6 +42,6 @@ int main()
         int mid=(mi+ma)/2+1;
         if (check(mid)) mi=mid; else ma=mid-1;
     }
-    printf("%d\n",ma);
+    printf("%d\n",ma);}
     return 0;
 }

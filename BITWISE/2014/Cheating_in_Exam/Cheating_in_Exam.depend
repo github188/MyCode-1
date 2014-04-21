@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1394288614 source:d:\mycode\bitwise\2014\cheating_in_exam\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string.h>
+

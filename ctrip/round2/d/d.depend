@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397473213 source:d:\mycode\ctrip\round2\d\d.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

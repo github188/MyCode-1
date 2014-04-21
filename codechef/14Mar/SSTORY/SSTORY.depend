@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395022952 source:d:\mycode\codechef\14mar\sstory\sstory.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+

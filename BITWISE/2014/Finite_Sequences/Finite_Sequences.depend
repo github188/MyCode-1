@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1394295111 source:d:\mycode\bitwise\2014\finite_sequences\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

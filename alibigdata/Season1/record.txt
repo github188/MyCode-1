@@ -1,0 +1,17 @@
+result9_140322_0
+参数：
+int fav_num=30;
+int brand_num_left=1900,brand_num_right=2100,brand_click=1500;
+double a1=5,a2=2,a3=3;
+8月结果：
+f1=3.53
+
+result9_140322_1
+参数：
+int fav_num=30;
+int brand_num_left=1900,brand_num_right=2100,brand_click=1000;
+double a1=10,a2=1,a3=1;
+8月结果：
+p=6.31
+r=2.91
+f1=3.3.98

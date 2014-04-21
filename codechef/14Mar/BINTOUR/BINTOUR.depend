@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1394378545 source:d:\mycode\codechef\14mar\bintour\bintour.cpp
+	<cmath>
+	<stdio.h>
+	<vector>
+	<iostream>
+	<algorithm>
+

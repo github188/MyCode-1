@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Season1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Season1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Season1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/Base.h" />
+		<Unit filename="include/CalcF1.h" />
+		<Unit filename="include/Init_1.h" />
+		<Unit filename="include/Measure_1.h" />
+		<Unit filename="include/Output_1.h" />
+		<Unit filename="include/SVD_1.h" />
+		<Unit filename="include/SecCalc.h" />
+		<Unit filename="include/SecFactory.h" />
+		<Unit filename="include/SecOutput.h" />
+		<Unit filename="include/SecStat.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/CalcF1.cpp" />
+		<Unit filename="src/Init_1.cpp" />
+		<Unit filename="src/Measure_1.cpp" />
+		<Unit filename="src/Output_1.cpp" />
+		<Unit filename="src/SVD_1.cpp" />
+		<Unit filename="src/SecCalc.cpp" />
+		<Unit filename="src/SecFactory.cpp" />
+		<Unit filename="src/SecOutput.cpp" />
+		<Unit filename="src/SecStat.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

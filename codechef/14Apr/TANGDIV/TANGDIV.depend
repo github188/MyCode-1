@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396876493 source:d:\mycode\codechef\14apr\tangdiv\tangdiv.cpp
+	<stdio.h>
+	<algorithm>
+

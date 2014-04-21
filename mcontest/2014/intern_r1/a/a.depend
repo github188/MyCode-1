@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1397300180 source:d:\mycode\mcontest\2014\intern_r1\a\a.cpp
+	<windows.h>
+	<Shellapi.h>
+

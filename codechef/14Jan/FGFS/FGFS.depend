@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1388849819 source:d:\mycode\codechef\14jan\fgfs\fgfs.cpp
+	<stdio.h>
+	<map>
+	<algorithm>
+

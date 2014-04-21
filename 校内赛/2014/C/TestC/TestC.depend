@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1397144008 source:d:\mycode\Ğ£ÄÚÈü\2014\c\testc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+

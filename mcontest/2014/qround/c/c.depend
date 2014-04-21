@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1397193780 source:d:\mycode\mcontest\2014\qround\c\c.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+

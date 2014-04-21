@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1389027450 source:d:\mycode\codechef\14jan\frbsum\frbsum.cpp
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<math.h>
+

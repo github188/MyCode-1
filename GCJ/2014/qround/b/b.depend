@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1397266915 source:d:\mycode\gcj\2014\qround\b\b.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<algorithm>
+

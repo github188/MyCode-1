@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397215627 source:d:\mycode\ctrip\b\b.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+

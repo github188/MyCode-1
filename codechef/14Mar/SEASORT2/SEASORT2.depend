@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1394549920 source:d:\mycode\codechef\14mar\seasort2\seasort2.cpp
+	<stdio.h>
+	<algorithm>
+

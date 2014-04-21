@@ -1,44 +1,13 @@
 #include<stdlib.h>
 #include<algorithm>
 #include<stdio.h>
+#include<iostream>
 using namespace std;
-struct ListNode {
-     int val;
-     ListNode *next;
-     ListNode(){};
-     ListNode(int x) : val(x), next(NULL) {}
- };
-class Solution {
-public:
-    ListNode* work(ListNode* head,int l,int r)
-    {
-        if (l==r)
-        {
-            ListNode* Ans=head->next;
-            head->next=NULL;
-            return Ans;
-        }
-        if (l+1==r) {ListNode* Ans=head->next->next;head->next->next=NULL;return Ans;}
-        ListNode* tmp=head->next;
-        head->next=work(head->next,l++,r--);
-        ListNode* ans=head->next->next;
-        head->next->next=tmp;
-        return ans;
-    }
-    void reorderList(ListNode *head) {
-        if (head==NULL) return;
-        int n=0;
-        ListNode* h=head;
-        while (h!=NULL) {n++;h=h->next;}
-        work(head,1,n);
-    }
-} a1;
+class A{public: A(){a=2;}A(int a){a=1;}  int a;};
+
 int main()
 {
-    ListNode a,b,c;
-    a.val=1;a.next=&b;
-    b.val=2;b.next=&c;
-    c.val=3;c.next=NULL;
-    a1.reorderList(&a);
+    A a(3);
+    cout<<a.a;
     return 0;
 }

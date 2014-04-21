@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1388851499 source:d:\mycode\codechef\14jan\error\error.cpp
+	<string.h>
+	<stdio.h>
+

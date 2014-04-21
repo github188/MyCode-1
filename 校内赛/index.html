@@ -1,0 +1,22 @@
+<head>
+<style type="text/css">
+textarea{height:600px;width:1000px;display:block}
+div{display:block}
+</style>
+</head>
+<body>
+	Team ID <input type="text" id="team_id" />
+	<textarea rows = "30" col = "500" id = "code" />
+Here is code.
+	</textarea>
+	<input type="button" id="submit" onclick="SendCode()" value="Submit">
+</body>
+<script language="javascript" type="text/javascript">
+function SendCode()
+{
+	var xmlhttp=new XMLHttpRequest();
+	var str=document.getElementById("team_id").value+"\n"+document.getElementById("code").value;
+	xmlhttp.open("POST","http://127.0.0.1:8000/",true);
+	xmlhttp.send(str);
+}
+</script>

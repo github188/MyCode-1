@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1389017926 source:d:\mycode\codechef\14jan\meteorak\meteorak.cpp
+	<stdio.h>
+	<algorithm>
+

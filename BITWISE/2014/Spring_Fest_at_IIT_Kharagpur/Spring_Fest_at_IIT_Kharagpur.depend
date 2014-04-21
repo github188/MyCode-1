@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1394303270 source:d:\mycode\bitwise\2014\spring_fest_at_iit_kharagpur\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
